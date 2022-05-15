@@ -24,7 +24,7 @@
     <a href="https://github.com/digel4/to-do-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://olivers-to-do-app.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/digel4/to-do-app/issues">Report Bug</a>
     ·
