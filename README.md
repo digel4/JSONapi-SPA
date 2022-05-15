@@ -16,19 +16,19 @@
     <img src="https://user-images.githubusercontent.com/58178649/168482806-e21b58f2-1e50-413f-afaf-4ce42e1fff91.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Movie Fight with Mocha</h3>
+<h3 align="center">To-do List App with MongoDB</h3>
 
   <p align="center">
-   A website that calls on the omdbapi and compares movie stats against another movie selected.
+   A react app witch consumes it's own API hosted on an Express server
     <br />
-    <a href="https://github.com/digel4/to-do-ap"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/digel4/to-do-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/digel4/to-do-ap/issues">Report Bug</a>
+    <a href="https://github.com/digel4/to-do-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/digel4/to-do-ap/issues">Request Feature</a>
+    <a href="https://github.com/digel4/to-do-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,8 +65,9 @@ This website gathers the stats from two different films and compares and contras
 ### Built With
 
 * [Express.js](https://expressjs.com/)
-* [Mocha](https://mochajs.org/)
-* 
+* [React.js](https://reactjs.org/)
+* [MongoDB](https://www.mongodb.com/)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -94,7 +95,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Oliver Fox - [Website](https://oliverfox.uk/) - [LinkedIn](https://www.linkedin.com/in/oliver-fox-uk/) - hello@oliverfox.uk
 
-Project Link: [https://github.com/digel4/to-do-ap](https://github.com/digel4/to-do-ap)
+Project Link: [https://github.com/digel4/to-do-ap](https://github.com/digel4/to-do-app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -102,15 +103,15 @@ Project Link: [https://github.com/digel4/to-do-ap](https://github.com/digel4/to-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/digel4/to-do-ap.svg?style=for-the-badge
-[contributors-url]: https://github.com/digel4/to-do-ap/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/digel4/to-do-ap.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/digel4/to-do-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/digel4/to-do-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/digel4/to-do-app.svg?style=for-the-badge
 [forks-url]: https://github.com/digel4/to-do-ap/network/members
-[stars-shield]: https://img.shields.io/github/stars/digel4/to-do-ap.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/digel4/to-do-app.svg?style=for-the-badge
 [stars-url]: https://github.com/digel4/to-do-ap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/digel4/to-do-ap.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/digel4/to-do-app.svg?style=for-the-badge
 [issues-url]: https://github.com/digel4/to-do-ap/issues
-[license-shield]: https://img.shields.io/github/license/digel4/to-do-ap.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/digel4/to-do-app.svg?style=for-the-badge
 [license-url]: https://github.com/digel4/to-do-ap/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/oliver-fox-uk/
