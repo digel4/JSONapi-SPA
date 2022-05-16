@@ -1,4 +1,5 @@
-const APIURL = 'http://localhost:3001/api/todos/';
+const APIURL2 = 'http://localhost:3001/api/todos/';
+const APIURL = `https://olivers-to-do-app.herokuapp.com/api/todos/`;
 
 export async function getTodos() {
     return fetch(APIURL)
