@@ -19,7 +19,7 @@
 <h3 align="center">To-do List App with MongoDB</h3>
 
   <p align="center">
-   A react app witch consumes it's own API hosted on an Express server
+   A react app which consumes it's own API. The API is hosted on an Express server
     <br />
     <a href="https://github.com/digel4/to-do-app"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,7 +57,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This website gathers the stats from two different films and compares and contrasts them.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -69,16 +68,6 @@ This website gathers the stats from two different films and compares and contras
 * [MongoDB](https://www.mongodb.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
