@@ -1,6 +1,6 @@
 const express = require('express'),
       app = express(),
-      port = 3001,
+      PORT = process.env.PORT || 3001;
       // Importing the router from index.js from /routes  
       todoRoutes = require('./routes/todos'),
       cors           = require("cors"),
@@ -49,6 +49,6 @@ if (process.env.NODE_ENV === "production") {
      });
 };
 
-app.listen(port, () => {
-    console.log("Listening on port 3001")
+app.listen(PORT, () => {
+    console.log(`Listening on port ${PORT}`)
 });
