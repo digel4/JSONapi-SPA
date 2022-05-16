@@ -12,7 +12,7 @@ app.use(express.urlencoded({extended: true}));
 app.use(express.json());
 
 // Telling express to search '/views' for files without an explicit path
-app.use(express.static(__dirname + '/views'));
+// app.use(express.static(__dirname + '/views'));
 //__dirname refers to the current directory
 
 // Telling express to search 'public' for files without an explicit path. Public is an industry standard so is hard baked into express
