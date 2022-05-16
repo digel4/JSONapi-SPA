@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/digel4/to-do-app">
+    <img src="https://user-images.githubusercontent.com/58178649/168482806-e21b58f2-1e50-413f-afaf-4ce42e1fff91.png" alt="Logo" width="80" height="80">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3 align="center">To-do List App with MongoDB</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <p align="center">
+   A react app which consumes it's own API. The API is hosted on an Express server
+    <br />
+    <a href="https://github.com/digel4/to-do-app"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://olivers-to-do-app.herokuapp.com/">View Demo</a>
+    ·
+    <a href="https://github.com/digel4/to-do-app/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/digel4/to-do-app/issues">Request Feature</a>
+  </p>
+</div>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `npm run eject`
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Built With
 
-## Learn More
+* [Express.js](https://expressjs.com/)
+* [React.js](https://reactjs.org/)
+* [MongoDB](https://www.mongodb.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<!-- LICENSE -->
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- CONTACT -->
+## Contact
 
-### Advanced Configuration
+Oliver Fox - [Website](https://oliverfox.uk/) - [LinkedIn](https://www.linkedin.com/in/oliver-fox-uk/) - hello@oliverfox.uk
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Project Link: [https://github.com/digel4/to-do-ap](https://github.com/digel4/to-do-app)
 
-### Deployment
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/digel4/to-do-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/digel4/to-do-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/digel4/to-do-app.svg?style=for-the-badge
+[forks-url]: https://github.com/digel4/to-do-ap/network/members
+[stars-shield]: https://img.shields.io/github/stars/digel4/to-do-app.svg?style=for-the-badge
+[stars-url]: https://github.com/digel4/to-do-ap/stargazers
+[issues-shield]: https://img.shields.io/github/issues/digel4/to-do-app.svg?style=for-the-badge
+[issues-url]: https://github.com/digel4/to-do-ap/issues
+[license-shield]: https://img.shields.io/github/license/digel4/to-do-app.svg?style=for-the-badge
+[license-url]: https://github.com/digel4/to-do-ap/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/oliver-fox-uk/
+[product-screenshot]: https://user-images.githubusercontent.com/58178649/168482992-5f5dab55-25fe-4262-89cb-c36be643fb26.png
+
+
+
