@@ -3,7 +3,8 @@ const express = require('express'),
       port = 3001,
       // Importing the router from index.js from /routes  
       todoRoutes = require('./routes/todos'),
-      cors           = require("cors");
+      cors           = require("cors"),
+      path = require("path");
 
 
 // Body parser so we can parse .JSON
@@ -37,6 +38,16 @@ app.use('/api/todos', todoRoutes);
 // app.post('/api/todos', (req, res) => {
 //     res.send("success");
 // } )
+
+// The section below is to serve React on heroku server
+if (process.env.NODE_ENV === "production") {
+    // Serve any static files
+    app.use(express.static(path.resolve(__dirname, "../client/build")));
+     // Handle React routing, return all requests to React app  
+     app.get("*", function (req, res) {
+      res.sendFile(path.resolve(__dirname, "../client/build", "index.html"));
+     });
+};
 
 app.listen(port, () => {
     console.log("Listening on port 3001")
